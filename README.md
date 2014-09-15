@@ -13,7 +13,7 @@ Requires numpy
 
 example artificial neural network (ANN) 
 
-Example using KDD Cup 1999 outlier detection data.
+Example using KDD Cup 1999 outlier detection data (provided).
 Plot detection rate and false positive rate based on percentage
 of top outliers used. Outlierness score is the reconstruction error,
 i.e. output error, of each data point.
