@@ -1,6 +1,6 @@
 ANN
 ===
-@author: Jonathan Ticknor, L-3 Data Tactics Corporation (@JonTicknor)
+@author: Jonathan Ticknor, L-3 Data Tactics (@JonTicknor)
 
 ANN model with sigmoid transfer function in hidden layer and
 linear transfer function in output layer. Mini-batch gradient descent 
